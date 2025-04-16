@@ -186,14 +186,10 @@ DreamWeaver's architecture is built upon several interconnected pillars:
 - **Current**: Led by Wes Lagarde, the founder and lead developer who has bootstrapped the project from concept to a functional prototype.
 - **Future**: Strategic expansion to recruit specialists in blockchain, AI system integration, immersive UI/UX, and game development.
 
-### Grant Strategy
-
-- **Focus**: The grant will support continued full-time technical leadership and targeted contract developer engagement to meet Phase 2 milestones.
-- **Goal**: Strengthen infrastructure, optimize AI models, and refine user experience while aligning with Polygon’s mission and ecosystem needs.
 
 ---
 
-## Chapter 8: Target Audience & Value Proposition
+## Chapter 8: Target Audience & Value 
 
 ### Target Audience
 
@@ -202,7 +198,7 @@ DreamWeaver's architecture is built upon several interconnected pillars:
 - **Research Communities**: Institutions and researchers focusing on emergent AI, collective intelligence, and verifiable machine learning evolution.
 - **Polygon & Web3 Ecosystem**: Projects and platforms benefiting from a flagship application that showcases advanced AI integration and dynamic NFT evolution.
 
-### Value Proposition
+### Value 
 
 - **For Users**: A unique metaverse where your dreams literally shape your digital identity and interactions.
 - **For Developers**: A robust, innovative platform with open APIs/SDKs to create complementary experiences.
