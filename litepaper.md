@@ -70,7 +70,7 @@ DreamWeaver's architecture is built upon several interconnected pillars:
 - **Function**: Processes user-submitted dream narratives using advanced NLP and symbolic interpretation.
 - **Output**: Generates personalized "Dream Essences" containing symbolic metadata, realm affinity, potentially AI-generated visuals, and resonance scores.
 - **Integration**: These Dream Essences fuel the evolution of DreamSouls and contribute additional data points to the DreamWeaver Graph, continuously refining the AI's learning cycle.
-
+![Dream Oracle Animation](./assets/oracle_gif.gif)
 ---
 
 ## Chapter 3: Digital Identity & Ownership
