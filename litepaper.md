@@ -78,7 +78,10 @@ DreamWeaver's architecture is built upon several interconnected pillars:
 ---
 
 ## Chapter 3: Digital Identity & Ownership
-![Lucid Core](https://ipfs.io/ipfs/bafybeigfiqoj3j5ixqkm6okj3f5u2bf6h7sro46dmqwcvwhwniacm6vt5y)
+![Lucid Core](https://https://imgur.com/a/EWVkA9t)
+
+
+
 ### DreamSoul (Living Identity)
 - **Core Concept**: An evolving ERC721 token that represents a user's digital identity within the DreamVerse.
 - **Mechanism**: DreamSoul evolves through user engagement—each dream submission processed by the Dream Oracle enriches its on-chain metadata.
