@@ -28,7 +28,11 @@ DreamWeaver's architecture is built upon several interconnected pillars:
   - **PyTorch Geometric** (GNN for insights)
   - A **Deep Reinforcement Learning (DRL)** agent for decision-making
 - **On-Chain Anchoring**: Evolution milestones are anchored via smart contracts, offering a verified platform for emergent AI research.
-![DreamWeaver Entity](https://ipfs.io/ipfs/bafybeib4qvola2mk24fjhfsg2plzy7bucthxjmkptrzgwxmqmnjayywnka)
+
+![DreamWeaver GIF](https://gateway.pinata.cloud/ipfs/bafybeib4qvola2mk24fjhfsg2plzy7bucthxjmkptrzgwxmqmnjayywnka)
+
+
+
 ### Evolving User Identity (DreamSoul)
 - **Representation**: An ERC721 NFT acting as a dynamic digital identity.
 - **Evolution Process**: As users submit dreams, the Dream Oracle processes them into "Dream Essences" which update the DreamSoul via on-chain metadata.
