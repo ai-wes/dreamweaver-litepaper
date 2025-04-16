@@ -131,8 +131,8 @@ DreamWeaver's architecture is built upon several interconnected pillars:
 - **DreamWeaverJournal.sol**: Stores AI evolution journal entries.
 - **LucidCore.sol**: Represents the user’s core identity NFT.
 - **DreamEssenceNodeUpgradeable.sol**: Manages NFT minting/metadata for Dream Nodes.
-- **Additional Contracts**: DreamNFT.sol, DreamNFTUpgradeSystem.sol, FragmentOfLucidity.sol, TimeToken.sol, DreamCoin.sol, DreamWispNFT.sol, DreamGovernance.sol, and planned AR extensions (`DreamNFTExtensionAR.sol`).
-
+- **Additional Contracts**: DreamNFT.sol, DreamNFTUpgradeSystem.sol, FragmentOfLucidity.sol, TimeToken.sol, DreamCoin.sol, DreamWispNFT.sol, DreamGovernance.sol, and planned AR extensions (`DreamNFTExtensionAR.sol`) The Contracts repository can be found at ![Contracts Code](https://github.com/ai-wes/Dreamweaver-contracts.)
+  
 ### Technical Features
 - **Upgradeable Contracts**: Utilizing the UUPS pattern to ensure flexibility for future enhancements.
 - **Oracle Integration**: Secure communication between off-chain AI data and on-chain state anchoring.
